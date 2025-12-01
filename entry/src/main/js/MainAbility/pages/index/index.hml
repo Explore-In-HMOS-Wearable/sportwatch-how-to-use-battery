@@ -1,0 +1,11 @@
+<div class="container">
+    <text class="title">
+        Battery Kit
+    </text>
+    <text class="content">
+        Status: {{ status }}
+    </text>
+    <text class="content">
+        Level: {{ level }}
+    </text>
+</div>
