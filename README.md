@@ -1,8 +1,8 @@
 > **Note:** To access all shared projects, get information about environment setup, and view other guides, please visit [Explore-In-HMOS-Wearable Index](https://github.com/Explore-In-HMOS-Wearable/hmos-index).
 
-# How to use Battery Kit
+# How to use Battery
 
-This application provide you can learn how to use battery kit for Huawei Sport Watch models.
+This application provide you can learn how to use battery for Huawei Sport Watch models.
 
 # Preview
 
@@ -24,9 +24,10 @@ This application provide you can learn how to use battery kit for Huawei Sport W
 - **Tools**: DevEco Studio Vers 5.1.0.842
 - **Libraries**: @system.battery
 
+# Directory Structure
 ```
  config.json
-│   
+│
 ├───js
 │   └───MainAbility
 │       │   app.js

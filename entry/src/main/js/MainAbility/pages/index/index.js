@@ -2,7 +2,7 @@ import battery from '@system.battery';
 
 export default {
     data: {
-        status: "",
+        status: '',
         level: 0
     },
     onInit() {
@@ -13,5 +13,5 @@ export default {
                 that.level = data.level
             }
         });
-    },
+    }
 };
